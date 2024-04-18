@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tashmit Verma</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Sophomore%20at%20MIT%20Manipal;Pursuing%20CCE%20course;Up%20for%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=498e78&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Student%20at%20MIT%20Manipal;Pursuing%20CCE%20course;Up%20for%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=498e78&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/Hca9cw2vQPxKzfUxz10lgwHpACumRUZUF0hG_FYcq6Y/rs:fit:220:146:1/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/aW1hZ2VzL2IyNDQ2/MGQyOWNmYjIxMjZh/ZmJiYTc4YzJiMDJh/MGQzL3Rlbm9yLmdp/Zg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashmitverma&label=Profile%20views&color=0e75b6&style=flat" alt="tashmitverma" /> </p>
