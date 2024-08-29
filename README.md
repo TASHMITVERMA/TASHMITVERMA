@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/tashmit verma](https://www.linkedin.com/in/tashmitverma)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tashmit Verma" height="30" width="40" /></a>
+- linkedIn-**https://www.linkedin.com/in/tashmitverma**
 <a href="https://instagram.com/tashmitverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashmitverma" height="30" width="40" /></a>
 </p>
 
