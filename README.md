@@ -15,7 +15,7 @@
 
 - 🥅 What do I want to do: **Contribute more to open source projects and dive deeper into academia.**
   
-- **Problem Solving-**https://leetcode.com/u/TASHMIT/
+- Problem Solving-**https://leetcode.com/u/TASHMIT/**
 
 - 📫 How to reach me: **tashmit.verma211@gmail.com**
 
